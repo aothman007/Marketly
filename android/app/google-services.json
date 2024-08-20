@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828771739207",
+    "project_id": "marketly-app-181c5",
+    "storage_bucket": "marketly-app-181c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828771739207:android:4a18d390c9aaed110ab362",
+        "android_client_info": {
+          "package_name": "com.example.marketly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-TQWJno2xrDkMDjclQSVnYASyP2Dv9Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
